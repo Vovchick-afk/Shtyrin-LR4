@@ -1,0 +1,16 @@
+C:\МояМошина\Машина\bin\Debug\Машина.exe.config
+C:\МояМошина\Машина\bin\Debug\Машина.exe
+C:\МояМошина\Машина\bin\Debug\Машина.pdb
+C:\МояМошина\Машина\bin\Debug\EntityFramework.dll
+C:\МояМошина\Машина\bin\Debug\EntityFramework.SqlServer.dll
+C:\МояМошина\Машина\bin\Debug\EntityFramework.xml
+C:\МояМошина\Машина\bin\Debug\EntityFramework.SqlServer.xml
+C:\МояМошина\Машина\bin\Debug\ru\EntityFramework.resources.dll
+C:\МояМошина\Машина\obj\Debug\Машина.csproj.AssemblyReference.cache
+C:\МояМошина\Машина\obj\Debug\Машина.Form1.resources
+C:\МояМошина\Машина\obj\Debug\Машина.Properties.Resources.resources
+C:\МояМошина\Машина\obj\Debug\Машина.csproj.GenerateResource.cache
+C:\МояМошина\Машина\obj\Debug\Машина.csproj.CoreCompileInputs.cache
+C:\МояМошина\Машина\obj\Debug\Машина.csproj.Up2Date
+C:\МояМошина\Машина\obj\Debug\Машина.exe
+C:\МояМошина\Машина\obj\Debug\Машина.pdb
